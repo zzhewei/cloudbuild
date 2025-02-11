@@ -4,6 +4,7 @@
 **利用 Cloud Build 關連到 Gitlab 並執行 CI/CD。**
 
 ### Prerequisites
+**本身的帳號一定要可以讓 build 讀取 secret 的權限**
 * Cloud Run
 * Cloud Build
 * Artifact Registry
