@@ -17,7 +17,7 @@
 ### Installing
 **1. clone repository 到 local。**
 ```shell
-git clone https://biglab.buygta.today/jason.liu/test.git
+git clone https://gitlab.com/q5040842/cloudbuild.git
 ```
 
 ### Usage
